@@ -5,6 +5,8 @@
 - Always open to exciting new ideas and projects 
 - Ask me about anything! 
 
+![](https://komarev.com/ghpvc/?username=tpinto7)
+
 <!--
 **tpinto7/tpinto7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
