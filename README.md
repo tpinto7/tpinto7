@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Tyler :) It's nice to meet you 
 
-- I'm currently working as a software engineer on the processes team at Datadog 
-- I previously worked at Confluent, LCBO, Veeva, and PointClickCare 
+- I'm currently working as a software engineer on the ontology & actions team at Palantir
+- I previously worked at Datadog, Confluent, LCBO, Veeva, and PointClickCare 
 - Always open to exciting new ideas and projects 
 - Ask me about anything! 
 
